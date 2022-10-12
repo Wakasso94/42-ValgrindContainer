@@ -48,7 +48,7 @@ To exit the docker container, type ```exit```, this will take you back to the ma
 
 ### (MANUAL) Running with the path in bashrc or zshrc
 
-Don't do this is you have already run the install script during the automatic install.
+Don't do this if you have already run the install script during the automatic install.
 If you want to just use the start script or the run script without referencing the directory where this repo is stored, then you can add the path to the scrips in your .bashrc or .zshrc file as follows at the bottom:
 
 ```PATH=$PATH:/Users/<username>/<Directory where this repo is cloned>```
